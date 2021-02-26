@@ -1,0 +1,52 @@
+* {
+  box-sizing: border-box;
+  margin: 1px;
+}
+
+.sm {
+  display: flex;
+  width: 25%;
+}
+
+.m {
+  display: flex;
+  width: 50%
+}
+
+.lg {
+  display: flex;
+  width: 75%;
+}
+
+.xl {
+  display: flex;
+  width: 100%;
+}
+
+.menu {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  justify-content: space-around;
+}
+
+.menu > a {
+  opacity: 0.6;
+  color: black;
+}
+
+h1 {
+  font-size:
+}
+
+h2 {
+  font-size:
+}
+
+h3 {
+  font-size:
+}
+
+.address {
+
+}
