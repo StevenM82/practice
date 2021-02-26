@@ -11,6 +11,10 @@
   width: 50%
 }
 
+.container-lg {
+  width: 75%;
+}
+
 .menu {
   display: flex;
   flex-direction: row;
